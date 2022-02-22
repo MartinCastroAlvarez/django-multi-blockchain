@@ -1,5 +1,7 @@
 # Cross-Chain Django SSO Application
 
+![architecture.png](./architecture.png)
+
 ## Instructions
 
 #### Start the SSO service
